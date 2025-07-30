@@ -6,6 +6,5 @@ class Solution(object):
         """
         if len(nums) != len(set(nums)):
             return True
-        else:
-            return False
+        return False
             
